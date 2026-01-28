@@ -1,0 +1,116 @@
+.navbar{
+    display: flex;
+    overflow: hidden;
+    border-radius: 19px;
+    background-color: rgb(76, 68, 68);
+}
+h1{
+    justify-content: flex-start;
+    font-size: -33px;
+    color: white;
+    display: flex;
+    position: relative;
+    left: 48px;
+}
+ul{
+    
+    display: flex;
+    list-style: none;
+    font-size: 19px;
+    position: relative;
+    top: 20px;
+    left: -69px;  
+}
+li{
+    list-style: none;
+    color: white;
+    margin:10px;
+    position: relative;
+    top: -17px;
+    left: 400px;
+    display: flex;
+
+}
+button{
+    position: absolute;
+    background-color: rgb(36, 143, 175);
+    color: white;
+    border-color: white;
+    font-size: 18px;
+    font-weight: bold;
+    left: 1050px;
+    top: -10px;
+    border-radius: 30px;
+}
+.navtwo{
+    display: flex;
+    overflow: hidden;
+    border-radius: 19px;
+    background-color: rgb(201, 69, 69);
+}
+.logo{
+    justify-content: flex-start;
+    font-size: -33px;
+    color: white;
+    display: flex;
+    position: relative;
+    left: 48px;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    font-size: 19px;
+    position: relative;
+    top: 20px;
+    left: 289px;
+    justify-content: space-between;
+}
+
+.button{
+    background-color: rgb(20, 129, 65);
+    color: white;
+    border-color: white;
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    left: 702px;
+    border-radius: 20px;
+}
+    
+.navthree{
+    display: flex;
+    overflow: hidden;
+    border-radius: 19px;
+    background-color: rgb(26, 68, 13);
+}
+.log{
+    
+    font-size: -33px;
+    color: white;
+    display: flex;
+    position: relative;
+    left: 1070px;
+}
+.ull{
+    display: flex;
+    list-style: none;
+    font-size: 19px;
+    position: relative;
+    top: 20px;
+    left: -650px;
+    justify-content: space-between;
+}
+
+.one{
+    background-color: rgb(102, 13, 83);
+    color: white;
+    border-color: white;
+    font-size: 20x;
+    font-weight: bold;
+    position: absolute;
+    left: 702px;
+    border-radius: 20px;
+}
+    
+
+
